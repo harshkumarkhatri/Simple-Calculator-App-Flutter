@@ -1,6 +1,23 @@
 # calculator
 
-A new Flutter project.
+A simple calculator implemented in flutter.<br>
+This is a simple calculator app which i have made in flutter.It has flat buttons which have text assigned and the app hasanother function which has the logic and is triggred whenever the '+' is clicked.
+<br>
+Things which are done in this app:-
+* Stateful and stateless widgets
+* Math expression dependecy
+
+___
+Built using:- 
+* Flutter
+
+___
+Snaps from the app:-<br>
+* Full video:- <br>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595514587/readme%20images/Simple%20calculator%20app/Screenshot_from_2020-07-23_19-10-22_ry8lu5.png" height=380>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595514587/readme%20images/Simple%20calculator%20app/Screenshot_from_2020-07-23_19-10-39_shvdc4.png" height=380>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595514587/readme%20images/Simple%20calculator%20app/Screenshot_from_2020-07-23_19-10-49_uwvvx2.png" height=380>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595514587/readme%20images/Simple%20calculator%20app/Screenshot_from_2020-07-23_19-11-05_eganpd.png" height=380>
 
 ## Getting Started
 
